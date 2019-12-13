@@ -1,0 +1,11 @@
+/home/mateus/Documents/OpenGL/glew/build/CMakeFiles/install/strip.dir
+/home/mateus/Documents/OpenGL/glew/build/CMakeFiles/glewinfo.dir
+/home/mateus/Documents/OpenGL/glew/build/CMakeFiles/list_install_components.dir
+/home/mateus/Documents/OpenGL/glew/build/CMakeFiles/install.dir
+/home/mateus/Documents/OpenGL/glew/build/CMakeFiles/visualinfo.dir
+/home/mateus/Documents/OpenGL/glew/build/CMakeFiles/glew_s.dir
+/home/mateus/Documents/OpenGL/glew/build/CMakeFiles/rebuild_cache.dir
+/home/mateus/Documents/OpenGL/glew/build/CMakeFiles/glew.dir
+/home/mateus/Documents/OpenGL/glew/build/CMakeFiles/uninstall.dir
+/home/mateus/Documents/OpenGL/glew/build/CMakeFiles/edit_cache.dir
+/home/mateus/Documents/OpenGL/glew/build/CMakeFiles/install/local.dir

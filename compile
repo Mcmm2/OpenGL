@@ -1,0 +1,4 @@
+#Utilizando pkg-config para linkar. Portanto que tenha buildado correto com CMake, deve funcionar.
+
+g++ -std=c++11 main.cpp -o main `pkg-config --cflags glfw3` `pkg-config --static --libs glfw3` -lGLEW -lGLU -lGL
+
